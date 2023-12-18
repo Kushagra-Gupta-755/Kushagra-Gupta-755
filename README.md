@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Kushagra Gupta
-- 👀 I’m interested in Coding & Cyber Security
-- 🌱 I’m currently learning Python Programming
+- 👋 Hi, I’m Kushagra Gupta, A first year Btech CSE student.
+- 👀 I have a keen interest in Cyber Security.
+- 🌱 I’m currently learning Python Programming.
 
 
 <!---
