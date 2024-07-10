@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kushagra Gupta, A first year Btech CSE student.
+- 👋 Hi, I’m Kushagra Gupta, A second year Btech CSE student.
 - 👀 I have a keen interest in Cyber Security.
 - 🌱 I’m currently learning Python Programming.
 
