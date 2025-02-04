@@ -1,9 +1,7 @@
-- 👋 Hi, I’m Kushagra Gupta, A second year Btech CSE student.
-- 👀 I have a keen interest in Cyber Security.
-- 🌱 I’m currently learning DSA.
+👋 Hi, I'm Kushagra Gupta!
+🔹 Cybersecurity Enthusiast | BTech CSE (2nd Year)
+🔹 Building secure systems & exploring AI-driven security solutions
 
+💡 Always learning, coding, and securing the web!
 
-<!---
-Kushagra-Gupta-755/Kushagra-Gupta-755 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Let's connect: https://www.linkedin.com/in/kushagra-gupta-a1b6b4291/
