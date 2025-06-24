@@ -1,6 +1,6 @@
 👋 Hi, I'm Kushagra Gupta!
 
-🔹 Cybersecurity Enthusiast | BTech CSE (2nd Year)
+🔹 Cybersecurity Enthusiast | BTech CSE 
 
 🔹 Building secure systems & exploring AI-driven security solutions
 
