@@ -41,7 +41,7 @@ I’ve completed the **Google Cybersecurity Certificate Program** and actively w
 ## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/kushagra-gupta9/)
-- Email: mail2kush13@gmail.com
+- mail2kush13@gmail.com
 
 ---
 
