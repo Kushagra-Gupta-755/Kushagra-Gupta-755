@@ -20,11 +20,11 @@ I’ve completed the **Google Cybersecurity Certificate Program** and actively w
 
 - **Predictive PestGuard**  
   AI-powered platform to predict pest outbreaks using real-time weather data.  
-  Flask + Firebase + TensorFlow
   [Live Demo](https://predictive-pest-guard.vercel.app/) | [GitHub Repo](https://github.com/anmolsalaria/predictive-pest-guard)
 
 - **MoodSphere**  
   Mental health-focused web app with imported wellness games and AI chatbot.
+  
   (Ongoing)
 
 ---
