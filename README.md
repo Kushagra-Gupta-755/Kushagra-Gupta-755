@@ -42,6 +42,6 @@ I’ve completed the **Google Cybersecurity Certificate Program** and actively w
 
 - [LinkedIn](https://www.linkedin.com/in/kushagra-gupta9/)
 - mail2kush13@gmail.com
-
+- [Coursera](https://www.coursera.org/account-profile)
 ---
 
