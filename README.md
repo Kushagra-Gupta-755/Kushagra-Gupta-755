@@ -12,15 +12,6 @@ I’ve completed the **Google Cybersecurity Certificate Program** and actively w
 
 ---
 
-## Technologies & Tools
-
-- **Languages:** Python, JavaScript, TypeScript, SQL, Bash
-- **Web:** HTML, CSS, React, Flask, Firebase, Vercel
-- **Cybersecurity:** Nmap, Nikto, OWASP ZAP
-- **Tools:** Git, VS Code, Wireshark
-
----
-
 ## Current Projects
 
 - **Web Server Security Tool**  
@@ -35,6 +26,15 @@ I’ve completed the **Google Cybersecurity Certificate Program** and actively w
 - **MoodSphere**  
   Mental health-focused web app with imported wellness games and AI chatbot.
   (Ongoing)
+
+---
+
+## Technologies & Tools
+
+- **Languages:** Python, JavaScript, TypeScript, SQL, Bash
+- **Web:** HTML, CSS, React, Flask, Firebase, Vercel
+- **Cybersecurity:** Nmap, Nikto, OWASP ZAP
+- **Tools:** Git, VS Code, Wireshark
 
 ---
 
