@@ -1,6 +1,6 @@
 👋 Hi, I'm Kushagra Gupta!
 
-🔹 Computer Science Student | Cybersecurity Enthusiast | Web Developer
+🔹 A B.Tech Computer Science student
 
 🔹 Building secure systems & exploring AI-driven security solutions
 
