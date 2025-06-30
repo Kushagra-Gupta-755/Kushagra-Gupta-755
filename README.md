@@ -16,7 +16,7 @@ I’ve completed the **Google Cybersecurity Certificate Program** and actively w
 
 - **Web Server Security Tool**  
   Detects misconfigurations and known vulnerabilities.  
-  [Live Demo](https://web-vuln-scannner.vercel.app/) | [GitHub Repo](https://github.com/kushagra-gupta9/web-vuln-scanner)
+  [Live Demo](https://web-vuln-scannner.vercel.app/) | [GitHub Repo](https://github.com/Kushagra-Gupta-755/WebVulnScannner)
 
 - **Predictive PestGuard**  
   AI-powered platform to predict pest outbreaks using real-time weather data.  
