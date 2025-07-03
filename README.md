@@ -10,6 +10,7 @@ I'm a 3rd-year Computer Science student passionate about solving real-world prob
 
 I’ve completed the **Google Cybersecurity Certificate Program** and actively work on security-focused projects like web vulnerability scanners and server hardening tools.
 
+[Portfolio](https://kushagra-gupta.vercel.app/)
 ---
 
 ## Current Projects
