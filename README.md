@@ -25,7 +25,7 @@ I’ve completed the **Google Cybersecurity Certificate Program** and actively w
 
 - **MoodSphere**  
   Mental health-focused web app with imported wellness games and AI chatbot.
-  
+  [Live Demo](https://mood-sphere.vercel.app/) | [GitHub Repo](https://github.com/anmolsalaria/mood-sphere)
   (Ongoing)
 
 ---
