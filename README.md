@@ -5,7 +5,7 @@ B.Tech CSE Student | Cybersecurity Enthusiast | Full Stack Developer
 ---
 
 ## About Me
-[Portfolio](https://kushagra-gupta.vercel.app/)
+[Portfolio](https://kushagra-gupta.vercel.app/)  
 I'm a 3rd-year Computer Science student passionate about solving real-world problems through code. With a strong foundation in Python, web development, and cybersecurity, I enjoy exploring how technology can be used to build secure, scalable, and user-friendly systems.
 
 I’ve completed the **Google Cybersecurity Certificate Program** and actively work on security-focused projects like web vulnerability scanners and server hardening tools.
