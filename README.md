@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kushagra Gupta
 
-B.Tech CSE Student | Cybersecurity Enthusiast | Full Stack Developer
+B.Tech CSE Student | Cybersecurity Enthusiast | Web Developer | AI Enthusiast
 
 ---
 
