@@ -10,8 +10,6 @@ I'm a 3rd-year Computer Science student passionate about solving real-world prob
 I’ve completed the **Google Cybersecurity Certificate Program** and actively work on security-focused projects like web vulnerability scanners and server hardening tools.
 
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5172678" style='border:none;'></iframe>
-
 [Portfolio Website](https://kushagra-gupta.vercel.app/)
 ---
 
