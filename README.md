@@ -5,9 +5,8 @@ B.Tech CSE Student | Cybersecurity Enthusiast | Web Developer | AI Enthusiast
 ---
 
 ## About Me
-I'm a 3rd-year Computer Science student passionate about solving real-world problems through code. With a strong foundation in Python, web development, and cybersecurity, I enjoy exploring how technology can be used to build secure, scalable, and user-friendly systems.
-
-I’ve completed the **Google Cybersecurity Certificate Program** and actively work on security-focused projects like web vulnerability scanners and server hardening tools.
+BTech CSE student with a strong focus on Cybersecurity, AI, and Web Development. Aspiring to build a career in AI-driven cybersecurity and Security Operations, while working on projects, exploring security tools, and developing skills through various platforms.
+I’ve completed 𝗚𝗼𝗼𝗴𝗹𝗲 𝗖𝘆𝗯𝗲𝗿𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗲 from Coursera, **Jr Penetration Tester** Learning Path from TryHackMe and have actively worked on a security focused project like web vulnerability scanner.
 
 
 [Portfolio Website](https://kushagra-gupta.vercel.app/)
@@ -32,10 +31,10 @@ I’ve completed the **Google Cybersecurity Certificate Program** and actively w
 
 ## Technologies & Tools
 
-- **Languages:** Python, JavaScript, TypeScript, SQL, Bash
-- **Web:** HTML, CSS, React, Flask, Firebase, Vercel
-- **Cybersecurity:** Nmap, Nikto, OWASP ZAP
-- **Tools:** Git, VS Code, Wireshark
+- **Cybersecurity:** Burp Suite, Nmap, Wireshark, Metasploit, Hydra, Gobuster, SQLMap
+- **Languages:** Python, C++, JavaScript, TypeScript, SQL
+- **Web:** HTML, CSS, React, Firebase, Vercel
+- **Tools:** Git, VS Code, Cursor
 
 ---
 
@@ -43,6 +42,5 @@ I’ve completed the **Google Cybersecurity Certificate Program** and actively w
 
 - [LinkedIn](https://www.linkedin.com/in/kushagra-gupta9/)
 - mail2kush13@gmail.com
-- [Coursera](https://www.coursera.org/account-profile)
 ---
 
