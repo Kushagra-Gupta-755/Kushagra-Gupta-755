@@ -40,7 +40,7 @@ I’ve completed 𝗚𝗼𝗼𝗴𝗹𝗲 𝗖𝘆𝗯𝗲𝗿𝘀𝗲𝗰𝘂�
 
 ## Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/kushagra-gupta9/)
+- [LinkedIn](https://www.linkedin.com/in/kushagra-gupta-a1b6b4291/)
 - mail2kush13@gmail.com
 ---
 
