@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Kushagra Gupta
 
-CSE Student | Cybersecurity Enthusiast | Web Developer | AI Enthusiast
+CSE Student | CEH v13 Certified | Aspiring Security Analyst | AI/ML Enthusiast | Web Developer
 
 ---
 
 ## About Me
-BTech CSE student with a strong focus on Cybersecurity, AI, and Web Development. Aspiring to build a career in AI-driven cybersecurity and Security Operations, while working on projects, exploring security tools, and developing skills through various platforms.
-I’ve completed 𝗚𝗼𝗼𝗴𝗹𝗲 𝗖𝘆𝗯𝗲𝗿𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗲 from Coursera, **Jr Penetration Tester** Learning Path from TryHackMe and have actively worked on a security focused project like web vulnerability scanner.
+BTech CSE student, passionate about AI-driven Cybersecurity and Security Operations. Currently working on projects, exploring security tools, and sharpening practical skills through platforms like TryHackMe and LetsDefend. I’m also an AI/ML enthusiast, focused on how intelligent systems can strengthen modern defense strategies.
+I am a **CEH v13 Certified Ethical Hacker** and hold the **Google Cybersecurity Professional Certificate** from Coursera. I have also completed the **Junior Penetration Tester learning path** on TryHackMe and have gained practical experience by developing a **security-focused web vulnerability scanner project**.
 
 
 [Portfolio Website](https://kushagra-gupta.vercel.app/)
@@ -14,6 +14,10 @@ I’ve completed 𝗚𝗼𝗼𝗴𝗹𝗲 𝗖𝘆𝗯𝗲𝗿𝘀𝗲𝗰𝘂�
 
 ## Current Projects
 
+- **Malware Detection through ML**  
+  Demonstrates use of various machine learning models to detect malware by analyzing API call behavior patterns instead of relying on static signatures.  
+  [GitHub Repo](https://github.com/Kushagra-Gupta-755/Malware_Detection_ML)
+  
 - **Web Server Security Tool**  
   Detects misconfigurations and known vulnerabilities.  
   [Live Demo](https://web-vuln-scannner.vercel.app/) | [GitHub Repo](https://github.com/Kushagra-Gupta-755/WebVulnScannner)
