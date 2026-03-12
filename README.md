@@ -16,7 +16,7 @@ I am a **CEH v13 Certified Ethical Hacker** and hold the **Google Cybersecurity 
 
 - **Malware Detection through ML**  
   Demonstrates use of various machine learning models to detect malware by analyzing API call behavior patterns instead of relying on static signatures.  
-  [GitHub Repo](https://github.com/Kushagra-Gupta-755/Malware_Detection_ML)
+  [Blog](https://medium.com/@kushagragupta7/ai-for-cybersecurity-e325e86bd7f4) | [GitHub Repo](https://github.com/Kushagra-Gupta-755/Malware_Detection_ML)
   
 - **Web Server Security Tool**  
   Detects misconfigurations and known vulnerabilities.  
@@ -35,10 +35,12 @@ I am a **CEH v13 Certified Ethical Hacker** and hold the **Google Cybersecurity 
 
 ## Technologies & Tools
 
-- **Cybersecurity:** Burp Suite, Nmap, Wireshark, Metasploit, Hydra, Gobuster, SQLMap
-- **Languages:** Python, C++, JavaScript, TypeScript, SQL
-- **Web:** HTML, CSS, React, Firebase, Vercel
-- **Tools:** Git, VS Code, Cursor
+- **Security Skills:** 	Ethical Hacking, Vulnerability Assessment and Penetration Testing (VAPT) 
+- **Security Operations:** 	Wazuh SIEM, Log Analysis, Threat Detection, Incident Response, Malware Analysis 
+- **Security Tools:** 	Wireshark, Nmap, Burp Suite, Metasploit, SQLMap, Gobuster, Hydra 
+- **Operating Systems:** 	Linux (Kali, Ubuntu), Windows 
+- **Programming:** 	Python, C++, Bash, Machine Learning
+- **Other Tools:** 	Git, Firebase, MySQL, Vercel, Cursor
 
 ---
 
