@@ -19,7 +19,7 @@ I am a **CEH v13 Certified Ethical Hacker** and hold the **Google Cybersecurity 
   Demonstrates use of various machine learning models to detect malware by analyzing API call behavior patterns instead of relying on static signatures.  
   [Blog](https://medium.com/@kushagragupta7/ai-for-cybersecurity-e325e86bd7f4) | [GitHub Repo](https://github.com/Kushagra-Gupta-755/Malware_Detection_ML)
   
-- **Web Server Security Tool**  
+- **Web Vulnerability Scanner**  
   Detects misconfigurations and known vulnerabilities.  
   [Live Demo](https://web-vuln-scannner.vercel.app/) | [GitHub Repo](https://github.com/Kushagra-Gupta-755/WebVulnScannner)
 
