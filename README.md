@@ -6,7 +6,8 @@ CSE Student | CEH v13 Certified | Aspiring Security Analyst | AI/ML Enthusiast |
 
 ## About Me
 BTech CSE student, passionate about AI-driven Cybersecurity and Security Operations. Currently working on projects, exploring security tools, and sharpening practical skills through platforms like TryHackMe and LetsDefend. I’m also an AI/ML enthusiast, focused on how intelligent systems can strengthen modern defense strategies.
-I am a **CEH v13 Certified Ethical Hacker** and hold the **Google Cybersecurity Professional Certificate** from Coursera. I have also completed the **Junior Penetration Tester learning path** on TryHackMe and have gained practical experience by developing a **security-focused web vulnerability scanner project**.
+
+I am a **CEH v13 Certified Ethical Hacker** and hold the **Google Cybersecurity Professional Certificate**. I have also completed the **Junior Penetration Tester & SOC Analyst learning path** on TryHackMe/LetsDefend and have gained practical experience by developing a **security focused projects**.
 
 
 [Portfolio Website](https://kushagra-gupta.vercel.app/)
