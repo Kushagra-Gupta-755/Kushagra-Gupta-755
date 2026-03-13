@@ -15,9 +15,13 @@ I am a **CEH v13 Certified Ethical Hacker** and hold the **Google Cybersecurity 
 
 ## Current Projects
 
+- **Home SOC Lab using Wazuh**  
+  A Home SOC Lab using Wazuh SIEM for endpoint monitoring, log analysis, vulnerability detection, and simulated attack detection.
+  [Writeup](https://medium.com/@kushagragupta7/building-a-home-soc-lab-with-wazuh-siem-acb44c6f4091) | [GitHub Repo](https://github.com/Kushagra-Gupta-755/Home-SOC-Lab-Wazuh)
+  
 - **Malware Detection through ML**  
   Demonstrates use of various machine learning models to detect malware by analyzing API call behavior patterns instead of relying on static signatures.  
-  [Blog](https://medium.com/@kushagragupta7/ai-for-cybersecurity-e325e86bd7f4) | [GitHub Repo](https://github.com/Kushagra-Gupta-755/Malware_Detection_ML)
+  [Writeup](https://medium.com/@kushagragupta7/ai-for-cybersecurity-e325e86bd7f4) | [GitHub Repo](https://github.com/Kushagra-Gupta-755/Malware_Detection_ML)
   
 - **Web Vulnerability Scanner**  
   Detects misconfigurations and known vulnerabilities.  
