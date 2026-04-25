@@ -31,11 +31,6 @@ I am a **CEH v13 Certified Ethical Hacker** and hold the **Google Cybersecurity 
   AI-powered platform to predict pest outbreaks using real-time weather data.  
   [Live Demo](https://predictive-pest-guard.vercel.app/) | [GitHub Repo](https://github.com/anmolsalaria/predictive-pest-guard)
 
-- **MoodSphere**  
-  Mental health-focused web app with imported wellness games and AI chatbot.  
-  [Live Demo](https://mood-sphere.vercel.app/) | [GitHub Repo](https://github.com/anmolsalaria/mood-sphere)
-  (Ongoing)
-
 ---
 
 ## Technologies & Tools
