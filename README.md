@@ -9,8 +9,6 @@ BTech CSE student, passionate about AI-driven Cybersecurity and Security Operati
 
 I am a **CEH v13 Certified Ethical Hacker** and hold the **Google Cybersecurity Professional Certificate**. I have also completed the **Junior Penetration Tester & SOC Analyst learning path** on TryHackMe/LetsDefend and have gained practical experience by developing a **security focused projects**.
 
-
-[Portfolio Website](https://kushagra-gupta.vercel.app/)
 ---
 
 ## Current Projects
@@ -39,9 +37,9 @@ I am a **CEH v13 Certified Ethical Hacker** and hold the **Google Cybersecurity 
 
 ## Technologies & Tools
 
-- **Security Skills:** 	Ethical Hacking, Vulnerability Assessment and Penetration Testing (VAPT) 
-- **Security Operations:** 	Wazuh SIEM, Log Analysis, Threat Detection, Incident Response, Malware Analysis 
-- **Security Tools:** 	Wireshark, Nmap, Burp Suite, Metasploit, SQLMap, Gobuster, Hydra 
+- **Security Operations:** 	SIEM, Log Analysis, Threat Detection, Incident Response, Malware Analysis 
+- **Security Skills:** 	Ethical Hacking, Vulnerability Assessment and Penetration Testing (VAPT)
+- **Security Tools:** 	Splunk, Elastic, Wazuh, Wireshark, Nmap, Burp Suite, Metasploit, SQLMap, Gobuster, Hydra 
 - **Operating Systems:** 	Linux (Kali, Ubuntu), Windows 
 - **Programming:** 	Python, C++, Bash, Machine Learning
 - **Other Tools:** 	Git, Firebase, MySQL, Vercel, Cursor
