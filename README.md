@@ -15,6 +15,10 @@ I am a **CEH v13 Certified Ethical Hacker** and hold the **Google Cybersecurity 
 
 ## Current Projects
 
+- **Secure File Encryption System**  
+  A system for securely encrypting and decrypting files using strong cryptographic techniques, ensuring data confidentiality and protection against unauthorized access.  
+  [GitHub Repo](https://github.com/Kushagra-Gupta-755/Secure-File-Encryption-System)
+
 - **Home SOC Lab using Wazuh SIEM**  
   A Home SOC Lab using Wazuh SIEM for endpoint monitoring, log analysis, vulnerability detection, and simulated attack detection.  
   [Writeup](https://medium.com/@kushagragupta7/building-a-home-soc-lab-with-wazuh-siem-acb44c6f4091) | [GitHub Repo](https://github.com/Kushagra-Gupta-755/Home-SOC-Lab-Wazuh)
